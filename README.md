@@ -19,3 +19,6 @@ TBC
   - [] Sortera kortleken.
   - [] ...
 
+## Resurser
+
+- [Rust Book](https://doc.rust-lang.org/book/)
