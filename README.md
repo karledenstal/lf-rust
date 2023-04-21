@@ -3,17 +3,17 @@
 Learning Friday Q2 2023.
 Använd Rust för att bygga utilities för att hantera kortspel.
 
-TBC
+Decklib
 
 ## Syfte
 
-- [] Lära sig grunderna i Rust.
+- Lära sig grunderna i Rust.
 
 ## Mål
 
-- [] ...
-- [] ...
-- [] ...
+- [] Skapa bibliotek med utilities för kortlekar/kortspel
+- [] Lära sig grunderna i Rust + Cargo
+- [] Publicera en Crate på [crates.io](https://crates.io/)
 
 ## Resurser
 
