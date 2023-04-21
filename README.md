@@ -11,13 +11,9 @@ TBC
 
 ## Mål
 
-- [] Bygga en crate med utils för kortspel.
-  - [] Bygga en kortlek.
-  - [] Shuffla kortleken.
-  - [] Dra kort från kortleken.
-  - [] Lägga till kort i kortleken.
-  - [] Sortera kortleken.
-  - [] ...
+- [] ...
+- [] ...
+- [] ...
 
 ## Resurser
 
